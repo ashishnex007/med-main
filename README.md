@@ -37,3 +37,8 @@ Password: admin123
 Password: 123456789
 - Username: Ashish <br>
 Password: 123456789
+<br>
+<br>
+# Admin Page
+![Image](https://github.com/ashishnex007/med-main/blob/images/1.jpg)
+![1](https://github.com/ashishnex007/med-main/assets/105256502/8f18bafd-2cba-4e3a-8ea8-18de3d673929)
