@@ -39,8 +39,4 @@ Password: 123456789
 Password: 123456789
 <br>
 <br>
-# Admin Page
-![work flow](https://github.com/Fastest-Coder-First/Weather-Fetch-API-TEAM_KNY/blob/main/workflow.png)
-![Example 1](https://github.com/Fastest-Coder-First/Weather-Fetch-API-TEAM_KNY/blob/main/ex1.png)
-![Image](https://github.com/ashishnex007/med-main/blob/images/1.jpg)
-![Image](https://github.com/ashishnex007/med-main/assets/105256502/8f18bafd-2cba-4e3a-8ea8-18de3d673929)
+
